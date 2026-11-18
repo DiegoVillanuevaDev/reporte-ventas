@@ -1,0 +1,462 @@
+fecha,producto,categoria,cantidad,precio_unitario,vendedor
+2026-05-01,Mouse inalámbrico,Electrónica,1,12.80,Carlos López
+2026-05-01,Audífonos bluetooth,Electrónica,2,28.66,Ana Martínez
+2026-05-01,Reloj digital,Accesorios,4,33.36,Ana Martínez
+2026-05-01,Audífonos bluetooth,Electrónica,2,28.01,Ana Martínez
+2026-05-01,Mochila,Accesorios,2,22.48,Diego Ramírez
+2026-05-01,Audífonos bluetooth,Electrónica,4,28.25,Ana Martínez
+2026-05-01,Teclado mecánico,Electrónica,4,44.28,Carlos López
+2026-05-02,Camisa casual,Ropa,1,17.27,Ana Martínez
+2026-05-02,Camisa casual,Ropa,3,18.19,Ana Martínez
+2026-05-02,Lámpara de escritorio,Hogar,4,15.05,Diego Ramírez
+2026-05-03,Mochila,Accesorios,3,22.72,Sofía Hernández
+2026-05-03,Reloj digital,Accesorios,2,35.72,Ana Martínez
+2026-05-04,Audífonos bluetooth,Electrónica,3,29.36,Carlos López
+2026-05-04,Mouse inalámbrico,Electrónica,4,12.22,Sofía Hernández
+2026-05-04,Teclado mecánico,Electrónica,3,44.35,Sofía Hernández
+2026-05-04,Lámpara de escritorio,Hogar,1,15.16,Carlos López
+2026-05-04,Mochila,Accesorios,2,21.26,Diego Ramírez
+2026-05-04,"Monitor 24""",Electrónica,5,140.93,Sofía Hernández
+2026-05-04,"Laptop 14""",Electrónica,2,670.92,Sofía Hernández
+2026-05-05,"Monitor 24""",Electrónica,1,140.81,Sofía Hernández
+2026-05-05,Audífonos bluetooth,Electrónica,4,27.71,Diego Ramírez
+2026-05-05,Teclado mecánico,Electrónica,3,43.38,Sofía Hernández
+2026-05-05,Lámpara de escritorio,Hogar,5,14.89,Diego Ramírez
+2026-05-05,Camisa casual,Ropa,2,18.90,Carlos López
+2026-05-06,Zapatos deportivos,Ropa,1,41.02,Ana Martínez
+2026-05-06,Teclado mecánico,Electrónica,2,46.31,Diego Ramírez
+2026-05-06,Reloj digital,Accesorios,1,34.60,Diego Ramírez
+2026-05-06,Mochila,Accesorios,3,23.04,Ana Martínez
+2026-05-06,Cafetera,Hogar,1,56.00,Sofía Hernández
+2026-05-06,Cafetera,Hogar,3,52.86,Diego Ramírez
+2026-05-07,Zapatos deportivos,Ropa,1,41.82,Sofía Hernández
+2026-05-07,Mochila,Accesorios,2,22.02,Ana Martínez
+2026-05-07,Cafetera,Hogar,3,56.88,Carlos López
+2026-05-08,Camisa casual,Ropa,2,18.07,Ana Martínez
+2026-05-08,Reloj digital,Accesorios,3,34.96,Ana Martínez
+2026-05-08,Camisa casual,Ropa,3,17.53,Carlos López
+2026-05-09,Mouse inalámbrico,Electrónica,1,12.79,Ana Martínez
+2026-05-09,Mochila,Accesorios,2,21.18,Diego Ramírez
+2026-05-09,Mochila,Accesorios,2,21.48,Diego Ramírez
+2026-05-09,Audífonos bluetooth,Electrónica,5,28.71,Carlos López
+2026-05-09,Lámpara de escritorio,Hogar,3,14.85,Sofía Hernández
+2026-05-09,Zapatos deportivos,Ropa,5,39.81,Carlos López
+2026-05-10,Mouse inalámbrico,Electrónica,3,11.90,Carlos López
+2026-05-10,Reloj digital,Accesorios,2,33.28,Ana Martínez
+2026-05-10,Audífonos bluetooth,Electrónica,1,29.14,Sofía Hernández
+2026-05-11,Mochila,Accesorios,2,21.51,Diego Ramírez
+2026-05-11,Audífonos bluetooth,Electrónica,5,26.97,Diego Ramírez
+2026-05-12,Zapatos deportivos,Ropa,4,38.76,Ana Martínez
+2026-05-12,Cafetera,Hogar,4,54.20,Diego Ramírez
+2026-05-12,Zapatos deportivos,Ropa,1,40.69,Ana Martínez
+2026-05-13,Pantalón jeans,Ropa,3,25.75,Ana Martínez
+2026-05-13,Audífonos bluetooth,Electrónica,2,27.13,Diego Ramírez
+2026-05-14,Pantalón jeans,Ropa,2,24.45,Carlos López
+2026-05-14,Mouse inalámbrico,Electrónica,4,12.89,Ana Martínez
+2026-05-14,"Laptop 14""",Electrónica,5,671.84,Ana Martínez
+2026-05-15,Audífonos bluetooth,Electrónica,2,27.74,Diego Ramírez
+2026-05-15,Audífonos bluetooth,Electrónica,4,29.13,Carlos López
+2026-05-15,Pantalón jeans,Ropa,1,26.21,Sofía Hernández
+2026-05-15,Zapatos deportivos,Ropa,3,39.69,Diego Ramírez
+2026-05-15,Teclado mecánico,Electrónica,2,44.09,Ana Martínez
+2026-05-15,Reloj digital,Accesorios,5,33.46,Sofía Hernández
+2026-05-15,"Laptop 14""",Electrónica,1,655.47,Carlos López
+2026-05-15,"Laptop 14""",Electrónica,5,622.71,Carlos López
+2026-05-16,Reloj digital,Accesorios,1,35.61,Carlos López
+2026-05-16,Pantalón jeans,Ropa,1,26.10,Carlos López
+2026-05-17,Reloj digital,Accesorios,1,35.42,Diego Ramírez
+2026-05-17,Cafetera,Hogar,5,55.36,Sofía Hernández
+2026-05-17,"Monitor 24""",Electrónica,2,147.46,Sofía Hernández
+2026-05-17,Audífonos bluetooth,Electrónica,3,27.71,Sofía Hernández
+2026-05-17,Zapatos deportivos,Ropa,3,41.72,Ana Martínez
+2026-05-17,"Laptop 14""",Electrónica,4,657.88,Ana Martínez
+2026-05-18,Mochila,Accesorios,2,22.01,Carlos López
+2026-05-18,Camisa casual,Ropa,1,18.68,Sofía Hernández
+2026-05-19,Teclado mecánico,Electrónica,4,46.50,Sofía Hernández
+2026-05-19,Reloj digital,Accesorios,5,33.28,Sofía Hernández
+2026-05-19,Cafetera,Hogar,1,57.41,Carlos López
+2026-05-19,"Monitor 24""",Electrónica,1,150.65,Carlos López
+2026-05-20,"Monitor 24""",Electrónica,5,140.80,Sofía Hernández
+2026-05-20,Audífonos bluetooth,Electrónica,3,28.02,Sofía Hernández
+2026-05-20,"Laptop 14""",Electrónica,1,658.73,Sofía Hernández
+2026-05-20,"Laptop 14""",Electrónica,1,639.18,Carlos López
+2026-05-21,"Monitor 24""",Electrónica,2,148.50,Diego Ramírez
+2026-05-21,Mochila,Accesorios,1,21.15,Carlos López
+2026-05-21,Mochila,Accesorios,1,22.74,Carlos López
+2026-05-21,Pantalón jeans,Ropa,2,23.85,Sofía Hernández
+2026-05-21,"Laptop 14""",Electrónica,3,631.15,Carlos López
+2026-05-21,Cafetera,Hogar,1,54.20,Diego Ramírez
+2026-05-21,Reloj digital,Accesorios,2,36.49,Carlos López
+2026-05-22,Teclado mecánico,Electrónica,2,46.72,Ana Martínez
+2026-05-22,Teclado mecánico,Electrónica,3,46.27,Diego Ramírez
+2026-05-22,Cafetera,Hogar,2,53.72,Ana Martínez
+2026-05-22,Pantalón jeans,Ropa,1,25.90,Carlos López
+2026-05-22,Audífonos bluetooth,Electrónica,4,27.58,Carlos López
+2026-05-22,Audífonos bluetooth,Electrónica,1,28.45,Diego Ramírez
+2026-05-22,Camisa casual,Ropa,3,18.66,Sofía Hernández
+2026-05-22,Camisa casual,Ropa,5,17.82,Sofía Hernández
+2026-05-23,Mouse inalámbrico,Electrónica,3,12.10,Sofía Hernández
+2026-05-23,"Laptop 14""",Electrónica,1,656.28,Sofía Hernández
+2026-05-24,Camisa casual,Ropa,4,18.19,Ana Martínez
+2026-05-24,Pantalón jeans,Ropa,5,24.23,Ana Martínez
+2026-05-24,Lámpara de escritorio,Hogar,4,14.25,Carlos López
+2026-05-24,Camisa casual,Ropa,4,17.23,Sofía Hernández
+2026-05-24,Reloj digital,Accesorios,3,35.57,Ana Martínez
+2026-05-24,Lámpara de escritorio,Hogar,3,15.01,Diego Ramírez
+2026-05-24,Camisa casual,Ropa,4,18.35,Carlos López
+2026-05-25,Pantalón jeans,Ropa,4,25.44,Carlos López
+2026-05-25,Reloj digital,Accesorios,5,34.30,Ana Martínez
+2026-05-25,"Monitor 24""",Electrónica,3,140.80,Sofía Hernández
+2026-05-26,Zapatos deportivos,Ropa,4,40.70,Diego Ramírez
+2026-05-26,Lámpara de escritorio,Hogar,2,15.24,Sofía Hernández
+2026-05-26,Mochila,Accesorios,5,21.64,Carlos López
+2026-05-26,Cafetera,Hogar,3,53.49,Carlos López
+2026-05-26,Teclado mecánico,Electrónica,1,42.96,Diego Ramírez
+2026-05-27,Mouse inalámbrico,Electrónica,4,12.39,Carlos López
+2026-05-27,Lámpara de escritorio,Hogar,4,14.99,Carlos López
+2026-05-27,Teclado mecánico,Electrónica,1,46.77,Ana Martínez
+2026-05-27,Pantalón jeans,Ropa,2,24.19,Diego Ramírez
+2026-05-27,"Laptop 14""",Electrónica,5,633.70,Ana Martínez
+2026-05-27,Zapatos deportivos,Ropa,2,41.21,Sofía Hernández
+2026-05-28,Zapatos deportivos,Ropa,5,41.26,Diego Ramírez
+2026-05-28,Mochila,Accesorios,4,22.87,Diego Ramírez
+2026-05-28,Zapatos deportivos,Ropa,3,41.01,Sofía Hernández
+2026-05-28,Mochila,Accesorios,4,22.28,Sofía Hernández
+2026-05-28,Zapatos deportivos,Ropa,1,40.85,Carlos López
+2026-05-28,"Monitor 24""",Electrónica,3,142.39,Ana Martínez
+2026-05-28,Teclado mecánico,Electrónica,2,43.79,Carlos López
+2026-05-28,Lámpara de escritorio,Hogar,2,14.35,Diego Ramírez
+2026-05-29,Mochila,Accesorios,4,21.81,Carlos López
+2026-05-29,Pantalón jeans,Ropa,4,26.01,Ana Martínez
+2026-05-29,Reloj digital,Accesorios,4,34.92,Sofía Hernández
+2026-05-29,"Monitor 24""",Electrónica,4,150.12,Diego Ramírez
+2026-05-30,Lámpara de escritorio,Hogar,5,15.45,Carlos López
+2026-05-30,Zapatos deportivos,Ropa,2,39.09,Diego Ramírez
+2026-05-30,"Laptop 14""",Electrónica,4,639.35,Diego Ramírez
+2026-05-30,Lámpara de escritorio,Hogar,2,15.51,Carlos López
+2026-05-30,Reloj digital,Accesorios,5,33.34,Diego Ramírez
+2026-05-30,Reloj digital,Accesorios,5,35.57,Ana Martínez
+2026-05-31,Pantalón jeans,Ropa,2,25.92,Carlos López
+2026-05-31,"Laptop 14""",Electrónica,3,642.14,Carlos López
+2026-05-31,Zapatos deportivos,Ropa,3,39.35,Diego Ramírez
+2026-05-31,"Monitor 24""",Electrónica,4,141.41,Ana Martínez
+2026-05-31,Zapatos deportivos,Ropa,1,41.00,Ana Martínez
+2026-05-31,Camisa casual,Ropa,2,18.27,Ana Martínez
+2026-05-31,"Laptop 14""",Electrónica,2,630.46,Ana Martínez
+2026-06-01,Teclado mecánico,Electrónica,2,43.32,Ana Martínez
+2026-06-01,Reloj digital,Accesorios,2,34.88,Sofía Hernández
+2026-06-01,Camisa casual,Ropa,2,18.19,Ana Martínez
+2026-06-01,Teclado mecánico,Electrónica,3,43.24,Ana Martínez
+2026-06-01,"Monitor 24""",Electrónica,5,147.57,Diego Ramírez
+2026-06-01,Pantalón jeans,Ropa,2,23.94,Carlos López
+2026-06-02,Lámpara de escritorio,Hogar,3,15.53,Ana Martínez
+2026-06-02,Reloj digital,Accesorios,1,34.47,Diego Ramírez
+2026-06-03,Camisa casual,Ropa,1,18.01,Sofía Hernández
+2026-06-03,"Laptop 14""",Electrónica,4,670.95,Ana Martínez
+2026-06-03,Pantalón jeans,Ropa,3,25.34,Diego Ramírez
+2026-06-03,Lámpara de escritorio,Hogar,2,14.90,Sofía Hernández
+2026-06-03,Reloj digital,Accesorios,5,35.96,Diego Ramírez
+2026-06-03,Pantalón jeans,Ropa,5,24.42,Carlos López
+2026-06-03,Mouse inalámbrico,Electrónica,3,12.98,Carlos López
+2026-06-04,Zapatos deportivos,Ropa,5,40.44,Diego Ramírez
+2026-06-04,Camisa casual,Ropa,1,17.99,Sofía Hernández
+2026-06-04,Teclado mecánico,Electrónica,4,43.70,Sofía Hernández
+2026-06-04,Camisa casual,Ropa,3,18.68,Sofía Hernández
+2026-06-04,Mochila,Accesorios,1,22.04,Carlos López
+2026-06-04,Mouse inalámbrico,Electrónica,2,12.78,Diego Ramírez
+2026-06-04,Mochila,Accesorios,2,22.42,Diego Ramírez
+2026-06-04,Zapatos deportivos,Ropa,1,38.37,Carlos López
+2026-06-05,Lámpara de escritorio,Hogar,2,14.71,Sofía Hernández
+2026-06-05,Zapatos deportivos,Ropa,5,40.12,Diego Ramírez
+2026-06-05,Lámpara de escritorio,Hogar,5,14.75,Diego Ramírez
+2026-06-05,"Monitor 24""",Electrónica,3,141.40,Ana Martínez
+2026-06-05,Lámpara de escritorio,Hogar,2,14.72,Carlos López
+2026-06-06,Audífonos bluetooth,Electrónica,4,27.37,Sofía Hernández
+2026-06-06,Mouse inalámbrico,Electrónica,2,12.25,Sofía Hernández
+2026-06-06,Teclado mecánico,Electrónica,3,42.81,Carlos López
+2026-06-07,"Laptop 14""",Electrónica,1,653.47,Carlos López
+2026-06-07,Cafetera,Hogar,4,52.81,Ana Martínez
+2026-06-07,Reloj digital,Accesorios,3,34.89,Diego Ramírez
+2026-06-07,Camisa casual,Ropa,2,18.84,Sofía Hernández
+2026-06-08,Zapatos deportivos,Ropa,1,41.29,Diego Ramírez
+2026-06-08,Zapatos deportivos,Ropa,1,40.31,Ana Martínez
+2026-06-08,Teclado mecánico,Electrónica,2,46.40,Sofía Hernández
+2026-06-08,Mouse inalámbrico,Electrónica,2,12.02,Diego Ramírez
+2026-06-08,Reloj digital,Accesorios,5,36.02,Carlos López
+2026-06-08,Mochila,Accesorios,4,21.89,Diego Ramírez
+2026-06-08,"Monitor 24""",Electrónica,5,152.11,Sofía Hernández
+2026-06-08,Reloj digital,Accesorios,5,33.46,Ana Martínez
+2026-06-09,Audífonos bluetooth,Electrónica,2,27.34,Ana Martínez
+2026-06-09,Teclado mecánico,Electrónica,2,43.53,Ana Martínez
+2026-06-09,Teclado mecánico,Electrónica,1,44.59,Diego Ramírez
+2026-06-09,"Monitor 24""",Electrónica,1,141.11,Sofía Hernández
+2026-06-09,Lámpara de escritorio,Hogar,4,14.36,Carlos López
+2026-06-09,"Monitor 24""",Electrónica,5,147.34,Carlos López
+2026-06-09,Pantalón jeans,Ropa,1,25.11,Carlos López
+2026-06-09,"Monitor 24""",Electrónica,2,138.79,Carlos López
+2026-06-10,"Monitor 24""",Electrónica,5,148.61,Sofía Hernández
+2026-06-10,Zapatos deportivos,Ropa,1,39.87,Sofía Hernández
+2026-06-10,Lámpara de escritorio,Hogar,4,15.66,Diego Ramírez
+2026-06-10,Zapatos deportivos,Ropa,1,40.39,Diego Ramírez
+2026-06-10,Lámpara de escritorio,Hogar,3,15.16,Ana Martínez
+2026-06-10,Mouse inalámbrico,Electrónica,2,13.08,Ana Martínez
+2026-06-10,Cafetera,Hogar,3,55.42,Carlos López
+2026-06-10,Zapatos deportivos,Ropa,5,40.61,Sofía Hernández
+2026-06-11,Reloj digital,Accesorios,4,35.47,Diego Ramírez
+2026-06-11,Mouse inalámbrico,Electrónica,4,12.31,Sofía Hernández
+2026-06-11,Camisa casual,Ropa,1,18.64,Sofía Hernández
+2026-06-12,Lámpara de escritorio,Hogar,4,14.68,Diego Ramírez
+2026-06-12,Mochila,Accesorios,1,21.90,Sofía Hernández
+2026-06-12,"Monitor 24""",Electrónica,3,139.43,Diego Ramírez
+2026-06-12,Mochila,Accesorios,1,22.35,Diego Ramírez
+2026-06-12,Pantalón jeans,Ropa,1,24.22,Sofía Hernández
+2026-06-13,Zapatos deportivos,Ropa,4,41.04,Carlos López
+2026-06-13,"Monitor 24""",Electrónica,5,139.65,Sofía Hernández
+2026-06-13,Zapatos deportivos,Ropa,4,38.49,Carlos López
+2026-06-13,Lámpara de escritorio,Hogar,2,14.72,Ana Martínez
+2026-06-13,Mochila,Accesorios,4,21.11,Ana Martínez
+2026-06-13,Zapatos deportivos,Ropa,1,40.59,Carlos López
+2026-06-14,Lámpara de escritorio,Hogar,3,15.01,Sofía Hernández
+2026-06-14,Pantalón jeans,Ropa,4,26.20,Carlos López
+2026-06-14,Zapatos deportivos,Ropa,5,38.58,Carlos López
+2026-06-14,Reloj digital,Accesorios,5,35.86,Carlos López
+2026-06-14,Mouse inalámbrico,Electrónica,3,12.84,Diego Ramírez
+2026-06-15,Mochila,Accesorios,3,22.71,Sofía Hernández
+2026-06-15,Lámpara de escritorio,Hogar,3,15.51,Diego Ramírez
+2026-06-15,Teclado mecánico,Electrónica,4,45.17,Sofía Hernández
+2026-06-15,Camisa casual,Ropa,5,18.47,Diego Ramírez
+2026-06-16,Camisa casual,Ropa,2,18.87,Carlos López
+2026-06-16,Reloj digital,Accesorios,4,34.07,Diego Ramírez
+2026-06-16,"Laptop 14""",Electrónica,3,665.91,Diego Ramírez
+2026-06-16,Pantalón jeans,Ropa,2,24.99,Ana Martínez
+2026-06-16,Teclado mecánico,Electrónica,5,47.09,Sofía Hernández
+2026-06-17,Mouse inalámbrico,Electrónica,4,12.00,Diego Ramírez
+2026-06-17,"Laptop 14""",Electrónica,2,644.15,Carlos López
+2026-06-17,Mouse inalámbrico,Electrónica,4,12.85,Sofía Hernández
+2026-06-17,Camisa casual,Ropa,5,18.35,Ana Martínez
+2026-06-17,Camisa casual,Ropa,5,17.78,Sofía Hernández
+2026-06-17,Cafetera,Hogar,4,57.05,Ana Martínez
+2026-06-17,Reloj digital,Accesorios,1,34.07,Sofía Hernández
+2026-06-17,Audífonos bluetooth,Electrónica,1,27.82,Ana Martínez
+2026-06-18,Cafetera,Hogar,1,54.69,Sofía Hernández
+2026-06-18,"Laptop 14""",Electrónica,1,638.58,Ana Martínez
+2026-06-18,"Monitor 24""",Electrónica,3,143.19,Carlos López
+2026-06-18,Audífonos bluetooth,Electrónica,5,27.75,Carlos López
+2026-06-18,Teclado mecánico,Electrónica,2,43.11,Diego Ramírez
+2026-06-18,Reloj digital,Accesorios,2,34.99,Carlos López
+2026-06-18,Audífonos bluetooth,Electrónica,4,28.39,Diego Ramírez
+2026-06-18,"Monitor 24""",Electrónica,1,150.78,Diego Ramírez
+2026-06-19,Cafetera,Hogar,5,53.12,Diego Ramírez
+2026-06-19,Camisa casual,Ropa,5,17.64,Diego Ramírez
+2026-06-19,Lámpara de escritorio,Hogar,3,14.94,Sofía Hernández
+2026-06-19,Audífonos bluetooth,Electrónica,4,28.99,Ana Martínez
+2026-06-20,Pantalón jeans,Ropa,5,24.65,Sofía Hernández
+2026-06-20,Lámpara de escritorio,Hogar,3,14.28,Diego Ramírez
+2026-06-20,"Monitor 24""",Electrónica,1,145.96,Ana Martínez
+2026-06-21,Lámpara de escritorio,Hogar,4,15.50,Sofía Hernández
+2026-06-21,Audífonos bluetooth,Electrónica,5,28.85,Carlos López
+2026-06-21,Cafetera,Hogar,2,55.66,Carlos López
+2026-06-21,Cafetera,Hogar,1,57.22,Ana Martínez
+2026-06-21,"Monitor 24""",Electrónica,4,138.23,Sofía Hernández
+2026-06-21,Lámpara de escritorio,Hogar,2,14.39,Sofía Hernández
+2026-06-22,Lámpara de escritorio,Hogar,4,14.51,Carlos López
+2026-06-22,Mochila,Accesorios,3,22.07,Sofía Hernández
+2026-06-22,Teclado mecánico,Electrónica,3,46.86,Diego Ramírez
+2026-06-22,"Monitor 24""",Electrónica,3,149.41,Diego Ramírez
+2026-06-23,Teclado mecánico,Electrónica,2,46.62,Diego Ramírez
+2026-06-23,Mochila,Accesorios,3,21.10,Diego Ramírez
+2026-06-24,"Monitor 24""",Electrónica,5,139.54,Sofía Hernández
+2026-06-24,Cafetera,Hogar,3,55.47,Sofía Hernández
+2026-06-25,Cafetera,Hogar,2,54.84,Sofía Hernández
+2026-06-25,Reloj digital,Accesorios,2,35.52,Diego Ramírez
+2026-06-26,"Monitor 24""",Electrónica,4,139.44,Ana Martínez
+2026-06-26,"Laptop 14""",Electrónica,3,682.24,Ana Martínez
+2026-06-26,Mouse inalámbrico,Electrónica,2,12.98,Carlos López
+2026-06-26,Pantalón jeans,Ropa,4,24.68,Diego Ramírez
+2026-06-26,Reloj digital,Accesorios,2,36.35,Ana Martínez
+2026-06-26,Zapatos deportivos,Ropa,5,39.63,Sofía Hernández
+2026-06-26,"Laptop 14""",Electrónica,3,631.62,Diego Ramírez
+2026-06-27,Camisa casual,Ropa,1,18.87,Sofía Hernández
+2026-06-27,Mochila,Accesorios,3,21.03,Sofía Hernández
+2026-06-27,Audífonos bluetooth,Electrónica,1,29.26,Diego Ramírez
+2026-06-28,Cafetera,Hogar,2,55.78,Ana Martínez
+2026-06-28,"Laptop 14""",Electrónica,3,633.33,Carlos López
+2026-06-29,Reloj digital,Accesorios,2,33.49,Carlos López
+2026-06-29,Reloj digital,Accesorios,2,36.10,Carlos López
+2026-06-29,Camisa casual,Ropa,2,18.52,Ana Martínez
+2026-06-29,"Monitor 24""",Electrónica,2,152.07,Sofía Hernández
+2026-06-29,Teclado mecánico,Electrónica,1,45.72,Ana Martínez
+2026-06-29,Teclado mecánico,Electrónica,1,44.36,Carlos López
+2026-06-29,Reloj digital,Accesorios,3,33.31,Sofía Hernández
+2026-06-29,"Laptop 14""",Electrónica,2,665.71,Ana Martínez
+2026-06-30,Mouse inalámbrico,Electrónica,4,12.44,Sofía Hernández
+2026-06-30,Mochila,Accesorios,5,21.14,Carlos López
+2026-06-30,Reloj digital,Accesorios,1,35.80,Sofía Hernández
+2026-06-30,Zapatos deportivos,Ropa,1,38.24,Diego Ramírez
+2026-06-30,Pantalón jeans,Ropa,4,25.47,Diego Ramírez
+2026-06-30,Lámpara de escritorio,Hogar,4,14.36,Ana Martínez
+2026-06-30,Camisa casual,Ropa,5,17.37,Carlos López
+2026-07-01,Reloj digital,Accesorios,5,35.17,Sofía Hernández
+2026-07-01,Pantalón jeans,Ropa,5,25.08,Diego Ramírez
+2026-07-01,Mochila,Accesorios,5,21.85,Ana Martínez
+2026-07-01,Cafetera,Hogar,5,56.21,Carlos López
+2026-07-02,Zapatos deportivos,Ropa,2,39.66,Diego Ramírez
+2026-07-02,Pantalón jeans,Ropa,4,25.57,Sofía Hernández
+2026-07-02,Pantalón jeans,Ropa,3,25.41,Sofía Hernández
+2026-07-02,Teclado mecánico,Electrónica,4,43.05,Ana Martínez
+2026-07-02,Mouse inalámbrico,Electrónica,4,12.00,Sofía Hernández
+2026-07-03,Teclado mecánico,Electrónica,5,43.02,Sofía Hernández
+2026-07-03,Cafetera,Hogar,1,54.51,Diego Ramírez
+2026-07-03,Lámpara de escritorio,Hogar,1,15.70,Sofía Hernández
+2026-07-03,Camisa casual,Ropa,1,18.14,Carlos López
+2026-07-03,Teclado mecánico,Electrónica,4,43.76,Ana Martínez
+2026-07-03,Camisa casual,Ropa,5,17.76,Sofía Hernández
+2026-07-03,Reloj digital,Accesorios,2,36.08,Ana Martínez
+2026-07-03,Reloj digital,Accesorios,3,33.35,Sofía Hernández
+2026-07-04,"Monitor 24""",Electrónica,3,142.84,Carlos López
+2026-07-04,Teclado mecánico,Electrónica,5,45.71,Ana Martínez
+2026-07-04,Teclado mecánico,Electrónica,1,43.16,Carlos López
+2026-07-04,Pantalón jeans,Ropa,4,24.88,Carlos López
+2026-07-04,Camisa casual,Ropa,3,18.40,Ana Martínez
+2026-07-04,"Laptop 14""",Electrónica,2,627.73,Ana Martínez
+2026-07-04,Cafetera,Hogar,1,53.75,Diego Ramírez
+2026-07-05,Reloj digital,Accesorios,4,34.70,Carlos López
+2026-07-05,Mochila,Accesorios,1,21.66,Ana Martínez
+2026-07-05,"Monitor 24""",Electrónica,5,144.81,Sofía Hernández
+2026-07-05,"Laptop 14""",Electrónica,2,643.19,Ana Martínez
+2026-07-05,"Laptop 14""",Electrónica,2,637.09,Carlos López
+2026-07-06,Teclado mecánico,Electrónica,3,44.05,Ana Martínez
+2026-07-06,"Laptop 14""",Electrónica,4,666.06,Carlos López
+2026-07-06,Teclado mecánico,Electrónica,4,45.15,Carlos López
+2026-07-06,Mochila,Accesorios,5,22.73,Sofía Hernández
+2026-07-06,Mouse inalámbrico,Electrónica,4,12.95,Ana Martínez
+2026-07-06,Pantalón jeans,Ropa,1,24.90,Ana Martínez
+2026-07-06,Camisa casual,Ropa,5,17.87,Diego Ramírez
+2026-07-06,Lámpara de escritorio,Hogar,4,14.68,Diego Ramírez
+2026-07-07,Camisa casual,Ropa,2,18.54,Diego Ramírez
+2026-07-07,Lámpara de escritorio,Hogar,3,14.38,Ana Martínez
+2026-07-08,Pantalón jeans,Ropa,5,24.75,Ana Martínez
+2026-07-08,Pantalón jeans,Ropa,3,25.61,Carlos López
+2026-07-08,Camisa casual,Ropa,2,17.24,Ana Martínez
+2026-07-09,Mochila,Accesorios,2,22.89,Sofía Hernández
+2026-07-09,Camisa casual,Ropa,2,17.53,Carlos López
+2026-07-09,"Monitor 24""",Electrónica,2,140.27,Carlos López
+2026-07-09,Cafetera,Hogar,1,53.22,Diego Ramírez
+2026-07-09,Zapatos deportivos,Ropa,5,41.04,Diego Ramírez
+2026-07-09,Cafetera,Hogar,5,55.79,Sofía Hernández
+2026-07-10,Cafetera,Hogar,3,53.08,Ana Martínez
+2026-07-10,Zapatos deportivos,Ropa,4,40.53,Sofía Hernández
+2026-07-10,Reloj digital,Accesorios,1,34.48,Ana Martínez
+2026-07-10,"Monitor 24""",Electrónica,4,144.30,Ana Martínez
+2026-07-10,Camisa casual,Ropa,3,17.24,Ana Martínez
+2026-07-10,Reloj digital,Accesorios,5,35.02,Diego Ramírez
+2026-07-10,Reloj digital,Accesorios,5,36.59,Ana Martínez
+2026-07-10,Zapatos deportivos,Ropa,5,40.61,Sofía Hernández
+2026-07-11,Zapatos deportivos,Ropa,5,38.60,Ana Martínez
+2026-07-11,Zapatos deportivos,Ropa,1,41.24,Sofía Hernández
+2026-07-11,Lámpara de escritorio,Hogar,1,15.01,Carlos López
+2026-07-11,"Laptop 14""",Electrónica,2,663.50,Diego Ramírez
+2026-07-11,Mochila,Accesorios,5,22.24,Sofía Hernández
+2026-07-11,Camisa casual,Ropa,3,17.80,Sofía Hernández
+2026-07-12,Reloj digital,Accesorios,1,36.01,Sofía Hernández
+2026-07-12,Mouse inalámbrico,Electrónica,3,11.99,Diego Ramírez
+2026-07-12,"Monitor 24""",Electrónica,3,148.24,Carlos López
+2026-07-12,Camisa casual,Ropa,1,18.15,Carlos López
+2026-07-12,Camisa casual,Ropa,3,18.84,Diego Ramírez
+2026-07-12,Teclado mecánico,Electrónica,5,45.94,Ana Martínez
+2026-07-12,"Monitor 24""",Electrónica,5,143.21,Sofía Hernández
+2026-07-13,Teclado mecánico,Electrónica,5,43.17,Diego Ramírez
+2026-07-13,Mochila,Accesorios,3,20.94,Sofía Hernández
+2026-07-13,Teclado mecánico,Electrónica,2,44.29,Diego Ramírez
+2026-07-13,Audífonos bluetooth,Electrónica,2,29.40,Carlos López
+2026-07-13,Mouse inalámbrico,Electrónica,3,12.93,Ana Martínez
+2026-07-13,Mochila,Accesorios,5,22.74,Ana Martínez
+2026-07-13,Cafetera,Hogar,3,57.07,Carlos López
+2026-07-13,Reloj digital,Accesorios,4,33.79,Carlos López
+2026-07-14,Lámpara de escritorio,Hogar,5,15.46,Carlos López
+2026-07-14,Lámpara de escritorio,Hogar,4,14.32,Sofía Hernández
+2026-07-14,Cafetera,Hogar,2,57.58,Sofía Hernández
+2026-07-14,Lámpara de escritorio,Hogar,4,14.60,Carlos López
+2026-07-14,"Monitor 24""",Electrónica,4,150.86,Carlos López
+2026-07-14,Camisa casual,Ropa,5,18.87,Diego Ramírez
+2026-07-14,"Monitor 24""",Electrónica,4,145.04,Diego Ramírez
+2026-07-14,Teclado mecánico,Electrónica,2,46.36,Carlos López
+2026-07-15,"Monitor 24""",Electrónica,1,147.05,Sofía Hernández
+2026-07-15,Mochila,Accesorios,1,22.47,Ana Martínez
+2026-07-15,"Monitor 24""",Electrónica,1,148.82,Sofía Hernández
+2026-07-15,Zapatos deportivos,Ropa,5,38.59,Diego Ramírez
+2026-07-15,Mouse inalámbrico,Electrónica,2,12.90,Sofía Hernández
+2026-07-15,"Laptop 14""",Electrónica,4,620.96,Sofía Hernández
+2026-07-15,Audífonos bluetooth,Electrónica,4,29.38,Sofía Hernández
+2026-07-15,Audífonos bluetooth,Electrónica,1,27.49,Ana Martínez
+2026-07-16,Lámpara de escritorio,Hogar,3,15.44,Carlos López
+2026-07-16,"Laptop 14""",Electrónica,3,677.13,Diego Ramírez
+2026-07-16,Lámpara de escritorio,Hogar,2,15.39,Diego Ramírez
+2026-07-16,Zapatos deportivos,Ropa,5,38.02,Ana Martínez
+2026-07-16,"Laptop 14""",Electrónica,3,631.52,Carlos López
+2026-07-16,Mochila,Accesorios,5,22.06,Ana Martínez
+2026-07-16,"Monitor 24""",Electrónica,2,142.12,Ana Martínez
+2026-07-16,Audífonos bluetooth,Electrónica,4,28.39,Diego Ramírez
+2026-07-17,Mouse inalámbrico,Electrónica,4,12.62,Ana Martínez
+2026-07-17,Cafetera,Hogar,5,55.41,Carlos López
+2026-07-18,Pantalón jeans,Ropa,1,25.29,Carlos López
+2026-07-18,Reloj digital,Accesorios,4,33.91,Ana Martínez
+2026-07-18,Mochila,Accesorios,3,21.05,Ana Martínez
+2026-07-18,Pantalón jeans,Ropa,4,23.86,Diego Ramírez
+2026-07-19,"Monitor 24""",Electrónica,1,142.93,Ana Martínez
+2026-07-19,Camisa casual,Ropa,2,18.42,Ana Martínez
+2026-07-19,Reloj digital,Accesorios,3,33.72,Sofía Hernández
+2026-07-19,Mochila,Accesorios,3,22.69,Carlos López
+2026-07-20,Cafetera,Hogar,4,57.64,Diego Ramírez
+2026-07-20,Cafetera,Hogar,2,56.71,Ana Martínez
+2026-07-20,Lámpara de escritorio,Hogar,4,14.31,Carlos López
+2026-07-20,"Laptop 14""",Electrónica,2,675.08,Sofía Hernández
+2026-07-20,"Monitor 24""",Electrónica,5,143.52,Diego Ramírez
+2026-07-20,"Monitor 24""",Electrónica,1,148.67,Carlos López
+2026-07-20,"Monitor 24""",Electrónica,3,150.25,Ana Martínez
+2026-07-20,Cafetera,Hogar,3,53.75,Sofía Hernández
+2026-07-21,Pantalón jeans,Ropa,4,25.99,Diego Ramírez
+2026-07-21,Camisa casual,Ropa,2,17.99,Diego Ramírez
+2026-07-21,Camisa casual,Ropa,5,17.58,Ana Martínez
+2026-07-21,Lámpara de escritorio,Hogar,4,14.37,Carlos López
+2026-07-21,Mochila,Accesorios,3,21.61,Ana Martínez
+2026-07-22,Cafetera,Hogar,3,53.94,Diego Ramírez
+2026-07-22,Teclado mecánico,Electrónica,4,44.33,Ana Martínez
+2026-07-22,Lámpara de escritorio,Hogar,3,15.17,Diego Ramírez
+2026-07-22,"Monitor 24""",Electrónica,1,138.84,Diego Ramírez
+2026-07-23,Mochila,Accesorios,2,23.00,Carlos López
+2026-07-23,Reloj digital,Accesorios,4,33.37,Ana Martínez
+2026-07-23,Audífonos bluetooth,Electrónica,3,27.61,Ana Martínez
+2026-07-23,Reloj digital,Accesorios,2,35.63,Sofía Hernández
+2026-07-24,Zapatos deportivos,Ropa,1,40.30,Sofía Hernández
+2026-07-24,Pantalón jeans,Ropa,3,25.37,Carlos López
+2026-07-24,Mouse inalámbrico,Electrónica,1,12.79,Diego Ramírez
+2026-07-24,Mochila,Accesorios,4,22.91,Ana Martínez
+2026-07-25,"Monitor 24""",Electrónica,4,140.86,Sofía Hernández
+2026-07-25,Lámpara de escritorio,Hogar,4,14.55,Carlos López
+2026-07-25,Mouse inalámbrico,Electrónica,4,12.09,Diego Ramírez
+2026-07-25,Mouse inalámbrico,Electrónica,3,12.71,Ana Martínez
+2026-07-26,Mochila,Accesorios,3,22.86,Carlos López
+2026-07-26,Lámpara de escritorio,Hogar,2,15.44,Carlos López
+2026-07-26,Mouse inalámbrico,Electrónica,2,12.87,Carlos López
+2026-07-26,Zapatos deportivos,Ropa,1,39.44,Sofía Hernández
+2026-07-26,Zapatos deportivos,Ropa,5,38.52,Ana Martínez
+2026-07-26,Mouse inalámbrico,Electrónica,3,12.37,Diego Ramírez
+2026-07-27,Pantalón jeans,Ropa,4,25.81,Ana Martínez
+2026-07-27,Teclado mecánico,Electrónica,3,45.64,Diego Ramírez
+2026-07-27,Zapatos deportivos,Ropa,5,39.38,Carlos López
+2026-07-27,Teclado mecánico,Electrónica,4,45.01,Ana Martínez
+2026-07-27,Mouse inalámbrico,Electrónica,5,12.07,Carlos López
+2026-07-27,Teclado mecánico,Electrónica,3,46.96,Carlos López
+2026-07-28,Mochila,Accesorios,3,22.76,Sofía Hernández
+2026-07-28,Audífonos bluetooth,Electrónica,5,27.37,Sofía Hernández
+2026-07-28,Reloj digital,Accesorios,5,33.58,Carlos López
+2026-07-28,Reloj digital,Accesorios,5,33.79,Sofía Hernández
+2026-07-29,Reloj digital,Accesorios,1,36.14,Ana Martínez
+2026-07-29,Mouse inalámbrico,Electrónica,1,13.06,Sofía Hernández
+2026-07-29,Cafetera,Hogar,2,56.47,Diego Ramírez
+2026-07-29,Reloj digital,Accesorios,1,34.99,Sofía Hernández
+2026-07-29,Cafetera,Hogar,3,54.91,Diego Ramírez
+2026-07-29,"Monitor 24""",Electrónica,4,138.81,Ana Martínez
+2026-07-29,Teclado mecánico,Electrónica,4,44.62,Diego Ramírez
+2026-07-29,Audífonos bluetooth,Electrónica,3,28.30,Sofía Hernández
